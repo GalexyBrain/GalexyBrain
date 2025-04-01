@@ -39,8 +39,6 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 
 ![GalexyBrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalexyBrain&show_icons=true&theme=radical)
 
-![GalexyBrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrjvjv&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect
 
 Feel free to reach out or explore my repositories to learn more about my work. I'm always open to collaboration and learning opportunities.
